@@ -1,4 +1,4 @@
-Hello there👋, I'm Samuel Omotayo.  
+Hello there👋, I'm Samul Omotayo.  
 🎯 I’m currently working as Software QA & Flutter based projects.  
 🌱 Focused on learning and growing.  
 👯 I’m looking to collaborate mobile projects and sofware testing projects.  
